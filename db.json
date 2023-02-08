@@ -40,6 +40,12 @@
       "text": "Clean Room",
       "day": "May 8th at 3:30pm",
       "reminder": false
+    },
+    {
+      "text": "Clean L",
+      "day": "",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
